@@ -1,4 +1,4 @@
-# EXP--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER                  # Date:2.2.24
+# EXP--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER    
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
