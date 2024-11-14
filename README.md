@@ -1,5 +1,10 @@
-# EXP--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER    
+# EXP-06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER    
 
+```
+ Name :Syed Mokthiyar S M
+ Reg No : 212222230156
+ Date : 06/11/2024
+```
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
